@@ -1,4 +1,4 @@
-wp-remove-author-pages
-======================
+WordPress plugin - Remove Author Pages
+======================================
 
-WordPress plugin to completely disable all author pages and link authors to the home page
+This plugin will trigger a 404 error on every author page and will replace links to author pages with a link to the home page.
