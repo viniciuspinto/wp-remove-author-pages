@@ -11,7 +11,7 @@ function remove_author_pages_page() {
 	if ( is_author() ) {
 		global $wp_query;
 		$wp_query->set_404();
-        status_header( 404 );
+		status_header( 404 );
 	}
 }
 
